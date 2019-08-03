@@ -8,6 +8,7 @@ def print_stuff():
     print(z)
     print("exiting print_stuff")
     print("My Name is Shivam");
+    print("My Name is Manoj");
 
 print_stuff()  # we call print_stuff and the program execution goes to (***)
 print(y)  # works fine
